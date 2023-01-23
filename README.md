@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Imgur Image](https://i.imgur.com/mLrjzk5.gif)
+![Imgur](https://i.imgur.com/mLrjzk5.gif)
 
 
 GIF created with ...  
