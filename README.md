@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Imgur](https://i.imgur.com/mLrjzk5.gif)
+![](https://github.com/hereswilson/web102_prework/blob/main/assets/smcf.gif)
 
 
 GIF created with ...  
